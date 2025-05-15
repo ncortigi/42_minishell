@@ -1,6 +1,6 @@
 # 🚀 42_minishell
 
-Benvenuto nel progetto **minishell** della Scuola 42, realizzato da [@minestrinad](https://github.com/minestrinad) e [@ncortigi]!
+Benvenuto nel progetto **minishell** della Scuola 42, realizzato con [@minestrinad](https://github.com/minestrinad)!
 
 ## 📝 Descrizione
 
